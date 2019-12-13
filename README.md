@@ -8,7 +8,7 @@ A curated list of awesome *live and in use* web apps with open-sourced code. Lea
 
 > - **Name** \<URL\> - \<Repo URL\>: \<Description\> (\<Stack\>)
 
-- **Adventar** <https://adventar.org/> - [adventar/adventar](https://github.com/adventar/adventar): Adventar is a service to host "Advent Calendar"-style blogging events. (JavaScript, Vue.js, Go, TypeScript)
+- **Adventar** <https://adventar.org/> - [adventar/adventar](https://github.com/adventar/adventar): Adventar is a service to host "Advent Calendar"-style blogging events. (JavaScript, Vue, Go, TypeScript)
 - **Coderwall** <https://coderwall.com> - [coderwall/coderwall-next](https://github.com/coderwall/coderwall-next): Coderwall is a developer community used by nearly half a million developers each month to learn and share programming tips. (Ruby, JavaScript, CoffeeScript)
 - **CyberChef** <https://gchq.github.io/CyberChef/> - [gchq/CyberChef](https://github.com/gchq/CyberChef): The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis. (JavaScript)
 - **Dev.to** <https://dev.to/> - [thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to): dev.to (or just DEV) is a platform where software developers write articles, take part in discussions, and build their professional profiles. (Ruby, JavaScript)
