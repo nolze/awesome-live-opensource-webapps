@@ -27,6 +27,8 @@ A curated list of awesome *live and in use* web apps with open-sourced code. Lea
   GitLab is an open source end-to-end software development platform with built-in version control, issue tracking, code review, CI/CD, and more.
 - **Jitsi Meet** <https://jitsi.org/jitsi-meet/> - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) (JavaScript, Java)  
   An open-source (Apache) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, secure and scalable video conferences.
+- **Libraries.io** <https://libraries.io/> - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) (Ruby on Rails, JavaScript)
+  Libraries.io helps developers find new open source libraries, modules and frameworks and keep track of ones they depend upon.
 - **npm trends** <https://www.npmtrends.com/> - [johnmpotter/npm-trends](https://github.com/johnmpotter/npm-trends) (Ruby, JavaScript)  
   An app for NPM package comparison.
 - **ownCloud** <https://owncloud.org/> - [owncloud/core](https://github.com/owncloud/core) (PHP, JavaScript)  
