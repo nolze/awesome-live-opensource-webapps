@@ -6,39 +6,72 @@ A curated list of awesome *live and in use* web apps with open-sourced code. Lea
 
 ## Apps
 
-> - **Name** \<URL\> - \<Repo URL\> (\<Stack\>)  
+> - **Name** \<URL\> - \<Repo URL\> (\<Stack\>)
 >   \<Description\>
 
-- **Adventar** <https://adventar.org/> - [adventar/adventar](https://github.com/adventar/adventar) (JavaScript, Vue, Go, TypeScript)  
+- **Adventar** <https://adventar.org/> - [adventar/adventar](https://github.com/adventar/adventar) (JavaScript, Vue, Go, TypeScript)
   Adventar is a service to host "Advent Calendar"-style blogging events.
-- **Coderwall** <https://coderwall.com> - [coderwall/coderwall-next](https://github.com/coderwall/coderwall-next) (Ruby, JavaScript, CoffeeScript)  
-  Coderwall is a developer community used by nearly half a million developers each month to learn and share programming tips.
-- **CodiMD (HackMD)** <https://hackmd.io/> <https://demo.codimd.org/> - [hackmdio/codimd](https://github.com/hackmdio/codimd) [codimd/server](https://github.com/codimd/server) (JavaScript)  
+- **Cal.com** <https://cal.com> - [calcom/cal.com](https://github.com/calcom/cal.com) (TypeScript, Next.js, Prisma)
+  Open scheduling platform (Calendly alternative) with hosted service.
+- **CodiMD (HackMD)** <https://hackmd.io/> <https://demo.codimd.org/> - [hackmdio/codimd](https://github.com/hackmdio/codimd) [codimd/server](https://github.com/codimd/server) (JavaScript)
   CodiMD (formerly known as HackMD) is a realtime collaborative markdown note-taking app on all platforms.
-- **CyberChef** <https://gchq.github.io/CyberChef/> - [gchq/CyberChef](https://github.com/gchq/CyberChef) (JavaScript)  
+- **CyberChef** <https://gchq.github.io/CyberChef/> - [gchq/CyberChef](https://github.com/gchq/CyberChef) (JavaScript)
   The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
-- **Dev.to** <https://dev.to/> - [thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to) (Ruby, JavaScript)  
+- **Dev.to** <https://dev.to/> - [thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to) (Ruby, JavaScript)
   dev.to (or just DEV) is a platform where software developers write articles, take part in discussions, and build their professional profiles.
-- **Dillinger** <https://dillinger.io/> - [joemccann/dillinger](https://github.com/joemccann/dillinger) (JavaScript)  
+- **diagrams.net (draw.io)** <https://app.diagrams.net/> - [jgraph/drawio](https://github.com/jgraph/drawio) (TypeScript, JavaScript)
+  Diagramming and whiteboarding web app with broad format support.
+- **Dillinger** <https://dillinger.io/> - [joemccann/dillinger](https://github.com/joemccann/dillinger) (JavaScript)
   Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
-- **Ghost** <https://ghost.org/> - [TryGhost/Ghost](https://github.com/TryGhost/Ghost/commits/master) (JavaScript)  
+- **Discourse** <https://try.discourse.org> - [discourse/discourse](https://github.com/discourse/discourse) (Ruby on Rails, Ember.js)
+  Modern discussion forum platform powering many large communities.
+- **Etherpad** <https://etherpad.org> - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) (Node.js, JavaScript)
+  Real-time collaborative text editor with a plugin ecosystem.
+- **Ghost** <https://ghost.org/> - [TryGhost/Ghost](https://github.com/TryGhost/Ghost/commits/master) (JavaScript)
   Ghost is a headless Node.js CMS for professional publishing.
-- **GitLab** <https://about.gitlab.com/> - [gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab) (Ruby, JavaScript, Vue)  
+- **GitLab** <https://about.gitlab.com/> - [gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab) (Ruby, JavaScript, Vue)
   GitLab is an open source end-to-end software development platform with built-in version control, issue tracking, code review, CI/CD, and more.
-- **Jitsi Meet** <https://jitsi.org/jitsi-meet/> - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) (JavaScript, Java)  
+- **Jitsi Meet** <https://jitsi.org/jitsi-meet/> - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) (JavaScript, Java)
   An open-source (Apache) WebRTC JavaScript application that uses Jitsi Videobridge to provide high quality, secure and scalable video conferences.
 - **Libraries.io** <https://libraries.io/> - [librariesio/libraries.io](https://github.com/librariesio/libraries.io) (Ruby on Rails, JavaScript)
   Libraries.io helps developers find new open source libraries, modules and frameworks and keep track of ones they depend upon.
-- **npm trends** <https://www.npmtrends.com/> - [johnmpotter/npm-trends](https://github.com/johnmpotter/npm-trends) (Ruby, JavaScript)  
-  An app for NPM package comparison.
-- **ownCloud** <https://owncloud.org/> - [owncloud/core](https://github.com/owncloud/core) (PHP, JavaScript)  
-  A software for cloud-based collaboration platforms. 
-- **Repology** <https://repology.org/> - [repology/repology-webapp](https://github.com/repology/repology-webapp) (Python)  
+- **Lemmy** <https://join-lemmy.org> - [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) (Rust, Actix Web, TypeScript)
+  Federated link aggregator (Reddit-like) for the Fediverse.
+- **Mastodon** <https://mastodon.social> - [mastodon/mastodon](https://github.com/mastodon/mastodon) (Ruby on Rails, React, JavaScript)
+  Federated social network with Twitter-like timelines and features.
+- **Mattermost** <https://community.mattermost.com/> - [mattermost/mattermost](https://github.com/mattermost/mattermost) (Go, React, TypeScript)
+  Open-source Slack alternative for team chat and collaboration.
+- **Nextcloud** <https://nextcloud.com> - [nextcloud/server](https://github.com/nextcloud/server) (PHP, JavaScript, Vue)
+  Self-hosted file sync, collaboration and communication platform.
+- **Outline** <https://www.getoutline.com> - [outline/outline](https://github.com/outline/outline) (Node.js, Koa, React, TypeScript)
+  Team knowledge base/wiki with rich editor and SSO integrations.
+- **ownCloud** <https://owncloud.org/> - [owncloud/core](https://github.com/owncloud/core) (PHP, JavaScript)
+  A software for cloud-based collaboration platforms.
+- **Penpot** <https://penpot.app> - [penpot/penpot](https://github.com/penpot/penpot) (Clojure, ClojureScript)
+  Open-source design and prototyping tool for product teams.
+- **Pixelfed** <https://pixelfed.social> - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) (PHP, Laravel, Vue.js)
+  Federated, privacy-focused photo sharing platform.
+- **Plausible Analytics** <https://plausible.io> - [plausible/analytics](https://github.com/plausible/analytics) (Elixir, Phoenix, JavaScript)
+  Privacy-focused, lightweight web analytics with a hosted cloud.
+- **Repology** <https://repology.org/> - [repology/repology-webapp](https://github.com/repology/repology-webapp) (Python)
   Repology is a service which monitors a lot of package repositories and other sources and aggregates data on software package versions, reporting new releases and packaging problems.
-- **StackEdit** <https://stackedit.io/> - [benweet/stackedit](https://github.com/benweet/stackedit) (JavaScript, Vue)  
-  Full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
-- **WordPress** <https://wordpress.org/> - [WordPress/WordPress](https://github.com/WordPress/WordPress) (PHP, JavaScript)  
+- **Sentry** <https://sentry.io> - [getsentry/sentry](https://github.com/getsentry/sentry) (Python, Django, TypeScript, React)
+  Application monitoring platform for error tracking and performance.
+- **Supabase Studio** <https://app.supabase.com> - [supabase/supabase](https://github.com/supabase/supabase) (TypeScript, React, Next.js)
+  Open-source Firebase alternative; Studio is the web console for projects.
+- **WordPress** <https://wordpress.org/> - [WordPress/WordPress](https://github.com/WordPress/WordPress) (PHP, JavaScript)
   A software for creating a beautiful website, blog, or app.
+- **Zulip** <https://zulip.com> - [zulip/zulip](https://github.com/zulip/zulip) (Python, Django, TypeScript, React)
+  Threaded team chat combining email-style topics with real-time chat.
+
+### Inactive / Archived
+
+- **Coderwall** <https://coderwall.com> - [coderwall/coderwall-next](https://github.com/coderwall/coderwall-next) (Ruby, JavaScript, CoffeeScript)
+  Coderwall is a developer community used by nearly half a million developers each month to learn and share programming tips.
+- **npm trends** <https://www.npmtrends.com/> - [johnmpotter/npm-trends](https://github.com/johnmpotter/npm-trends) (Ruby, JavaScript)
+  An app for NPM package comparison.
+- **StackEdit** <https://stackedit.io/> - [benweet/stackedit](https://github.com/benweet/stackedit) (JavaScript, Vue)
+  Full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
 
 ## Related lists
 
