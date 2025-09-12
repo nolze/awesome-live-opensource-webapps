@@ -27,7 +27,7 @@ A curated list of awesome *live and in use* web apps with open-sourced code. Lea
   Modern discussion forum platform powering many large communities.
 - **Etherpad** <https://etherpad.org> - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) (Node.js, JavaScript)
   Real-time collaborative text editor with a plugin ecosystem.
-- **Ghost** <https://ghost.org/> - [TryGhost/Ghost](https://github.com/TryGhost/Ghost/commits/master) (JavaScript)
+- **Ghost** <https://ghost.org/> - [TryGhost/Ghost](https://github.com/TryGhost/Ghost/) (JavaScript)
   Ghost is a headless Node.js CMS for professional publishing.
 - **GitLab** <https://about.gitlab.com/> - [gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab) (Ruby, JavaScript, Vue)
   GitLab is an open source end-to-end software development platform with built-in version control, issue tracking, code review, CI/CD, and more.
