@@ -13,8 +13,8 @@ A curated list of awesome *live and in use* web apps with open-sourced code. Lea
   Adventar is a service to host "Advent Calendar"-style blogging events.
 - **Cal.com** <https://cal.com> - [calcom/cal.com](https://github.com/calcom/cal.com) (TypeScript, Next.js, Prisma)
   Open scheduling platform (Calendly alternative) with hosted service.
-- **CodiMD (HackMD)** <https://hackmd.io/> <https://demo.codimd.org/> - [hackmdio/codimd](https://github.com/hackmdio/codimd) [codimd/server](https://github.com/codimd/server) (JavaScript)
-  CodiMD (formerly known as HackMD) is a realtime collaborative markdown note-taking app on all platforms.
+- **HedgeDoc / CodiMD (formerly HackMD)** <https://hackmd.io/> <https://demo.hedgedoc.org/> - [hackmdio/codimd](https://github.com/hackmdio/codimd) [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) (JavaScript)
+  HedgeDoc / CodiMD (formerly known as HackMD) is a realtime collaborative markdown note-taking app on all platforms.
 - **CyberChef** <https://gchq.github.io/CyberChef/> - [gchq/CyberChef](https://github.com/gchq/CyberChef) (JavaScript)
   The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
 - **Dev.to** <https://dev.to/> - [thepracticaldev/dev.to](https://github.com/thepracticaldev/dev.to) (Ruby, JavaScript)
