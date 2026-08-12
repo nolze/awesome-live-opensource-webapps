@@ -45,6 +45,8 @@ A curated list of awesome *live and in use* web apps with open-sourced code. Lea
   Self-hosted file sync, collaboration and communication platform.
 - **Outline** <https://www.getoutline.com> - [outline/outline](https://github.com/outline/outline) (Node.js, Koa, React, TypeScript)
   Team knowledge base/wiki with rich editor and SSO integrations.
+- **Persona** <https://github.com/jayamitkatariya/personacli> - [jayamitkatariya/personacli](https://github.com/jayamitkatariya/personacli) (TypeScript, Node.js, Hono)
+  Local-first personal workspace with notes, tasks and AI chat, stored as plain Markdown files.
 - **ownCloud** <https://owncloud.org/> - [owncloud/core](https://github.com/owncloud/core) (PHP, JavaScript)
   A software for cloud-based collaboration platforms.
 - **Penpot** <https://penpot.app> - [penpot/penpot](https://github.com/penpot/penpot) (Clojure, ClojureScript)
