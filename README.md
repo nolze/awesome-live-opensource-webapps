@@ -64,6 +64,9 @@ A curated list of awesome *live and in use* web apps with open-sourced code. Lea
 - **Zulip** <https://zulip.com> - [zulip/zulip](https://github.com/zulip/zulip) (Python, Django, TypeScript, React)
   Threaded team chat combining email-style topics with real-time chat.
 
+- **3ammiya** <https://3ammiya.com/en/> - [khaledmoayad/3ammiya](https://github.com/khaledmoayad/3ammiya) (TypeScript, Next.js, Supabase)
+  Free Egyptian Arabic dictionary with Arabic and Franco search and everyday examples.
+
 ### Inactive / Archived
 
 - **Coderwall** <https://coderwall.com> - [coderwall/coderwall-next](https://github.com/coderwall/coderwall-next) (Ruby, JavaScript, CoffeeScript)
